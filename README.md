@@ -60,6 +60,10 @@ To enable it:
 | Speech Recognition | On-device transcription via Apple's Speech framework |
 | Accessibility | Inject transcribed text into the focused input field |
 
+## Inspiration
+
+Inspired by [yetone/voice-input-src](https://github.com/yetone/voice-input-src), a voice input app whose entire source code is a prompt — a fun exploration of AI-assisted development.
+
 ## License
 
 MIT
